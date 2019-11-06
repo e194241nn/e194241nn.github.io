@@ -1,0 +1,19 @@
+h1{
+    color:darkorange;
+    font-family:"Impact";
+    text-align:center;
+    background-color: aquamarine;
+}
+h3{color: orchid;
+font-family: "Impact";
+  }
+p{
+    font-size: 25px;
+    font-weight:bold;
+}
+body{
+    background-image:url("https://img21.shop-pro.jp/PA01374/641/product/118087768.jpg?cmsp_timestamp=20170613005256/images/01.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
