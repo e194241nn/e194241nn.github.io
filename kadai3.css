@@ -1,0 +1,30 @@
+
+h1{
+    color:ghostwhite;
+    font-family:"Impact";
+    text-align:center;
+    background-color:black;
+}
+h2{color: pink;
+font-family: "Impact";
+text-align: center;
+background-color: aquamarine;
+   }
+h3{color: orchid;
+font-family: "Impact";
+}
+
+p{
+    font-size: 25px;
+    font-weight:bold;
+}
+a{color: orchid;
+ }
+
+
+body{
+    background-image:url("https://eiga.k-img.com/images/buzz/79448/60072095c318094e/640.jpg?1561975802/images/01.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
