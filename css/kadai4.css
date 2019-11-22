@@ -1,16 +1,21 @@
-
 h1{
     color:ghostwhite;
     font-family:"Impact";
     text-align:center;
     background-color:black;
 }
-h2{color: pink;
+h2#nanako{color: palevioletred;
 font-family: "Impact";
 text-align: center;
-background-color: darkred;
+background-color: whitesmoke;
    }
-h3{color: orchid;
+
+h2#tomomi{color: khaki;
+font-family: "Impact";
+text-align: center;
+background-color: brown;
+   }
+h3{color: black;
 font-family: "Impact";
 }
 
