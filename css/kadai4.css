@@ -1,8 +1,14 @@
-h1{
+h1#gen{
     color:ghostwhite;
     font-family:"Impact";
     text-align:center;
     background-color:black;
+}
+h1#hoshino{
+    color:paleturquoise;
+    font-family:"Impact";
+    text-align:center;
+    background-color:indigo;
 }
 h2#nanako{color: palevioletred;
 font-family: "Impact";
