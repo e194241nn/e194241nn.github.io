@@ -1,0 +1,94 @@
+div.title{
+    width:1000px;
+    height:40px;
+     background-color: yellow;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+}
+div.menu{
+     width:1000px;
+    height:320px;
+    background-color: brown;
+    text-align: left;
+    font-size: 0;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    
+}
+
+div.left{
+    width:250px;
+    height:320px;
+    background-color:green;
+    margin-right:50px;
+    display:inline-block;
+    vertical-align:top;
+    font-size:0;
+     
+    
+}
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-family: "Impact";
+    text-align:
+}
+div.menu2{
+    width: 250px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-family: "Impact";
+}
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: antiquewhite;
+    font-family: "Impact";
+    font-size: 16px;
+}
+div.right{
+    width:700px;
+    height:320px;
+    background-color:thistle;
+   display:inline-block;
+    vertical-align:top;
+    font-size: 0;
+    
+}
+
+div.gazou{
+     background-image:url("../images/hoshinomario5.jpg");
+    width: 700px;
+    height: 300px;
+    background-color: azure;
+    display:block;
+    vertical-align:top;
+    font-size: 0;
+}
+div.bunshou{
+    width: 700px;
+    height: 20px;
+    background-color: gold;
+    display: block;
+    vertical-align:top;
+    font-size: 16px;
+    text-align: center;
+   
+}
+
+div.fttar{
+     width:1000px;
+    height:40px;
+     background-color: salmon;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    
+}
