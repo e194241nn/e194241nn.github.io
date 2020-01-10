@@ -1,0 +1,147 @@
+div.title{
+    width:1000px;
+    height:200px;
+     background-color: white;
+    background-image: url("../images/Gen1.jpg");
+}
+
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+div.menu{
+   width:1000;
+   
+    font-size:0;
+    
+}
+
+
+
+span.hoshino{
+    display:inline-block;
+   width:200px;
+    height:50px;
+    vertical-align:top;
+    background-color: antiquewhite;
+   font-size:16px;
+    font-family: "Impact";
+    text-align:center;
+    
+}
+span.nagaoka{
+     display:inline-block;
+    width:200px;
+    height:50px;
+    vertical-align:top;
+    background-color:antiquewhite;
+    font-size:16px;
+    font-family:"Impact";
+    text-align:center;
+     
+}
+span.hama{
+     display:inline-block;
+    width:200px;
+    height:50px;
+    vertical-align:top;
+    background-color:antiquewhite;
+    font-family:"Impact";
+    font-size: 16px;
+    text-align:center;
+     
+}
+
+span.kasuke{
+     display:inline-block;
+    width:200px;
+    height:50px;
+    vertical-align:top;
+    background-color:antiquewhite;
+    font-family:"Impact";
+    font-size:16px;
+    text-align:center;
+     
+}
+
+span.eiko{
+     display:inline-block;
+    width:200px;
+    height:50px;
+    vertical-align:top;
+    background-color:antiquewhite;
+    font-family:"Impact";
+    font-size:16px;
+    text-align:center;
+    
+}
+
+div.frame{
+     width:1000px;
+    font-size:0;
+    
+    
+}
+
+div.framen{
+     width:1000px;
+    font-size:0;
+     margin-bottom:10px;
+    
+}
+
+
+
+span.frame1{
+    display:inline-block;
+    width:600px;
+    height:310px;
+    vertical-align:top;
+    background-color:darkgray;
+     background-image:  url("../images/Eiko3.jpg");
+}
+span.frame2{
+     display:inline-block;
+    width:400px;
+    height:310px;
+    vertical-align:top;
+    background-color:indianred;
+    font-family:"Impact";
+    font-size:19px;
+    text-align:center;
+    
+}
+span.frame3{
+     display:inline-block;
+    width:400px;
+    height:310px;
+    vertical-align:top;
+    background-color: azure;
+    font-family:"Impact";
+    font-size:19px;
+    text-align:center;
+}
+
+span.frame4{
+     display: inline-block;
+    width:600px;
+    height:310px;
+    vertical-align:top;
+    background-color: lavenderblush;
+    background-image:  url("../images/Eiko4.jpg");
+}
+
+
+
+
+
+div.fttar{
+     width:1000px;
+    height:30px;
+     background-color: salmon;
+    text-align: left;
+    font-size:20px;
+     
+    
+}
